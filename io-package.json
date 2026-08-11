@@ -70,14 +70,14 @@
       },
       "2.3.0": {
         "en": "update eslint",
-        "de": "update eslint",
+        "de": "ESLint aktualisieren",
         "ru": "обновление eslint",
         "pt": "atualização eslint",
         "nl": "eslint bijwerken",
         "fr": "mettre à jour eslint",
         "it": "aggiornamento eslint",
-        "es": "update eslint",
-        "pl": "update eslint",
+        "es": "actualizar ESLint",
+        "pl": "zaktualizować ESLint",
         "uk": "оновлення eslint",
         "zh-cn": "更新埃斯林特"
       },
